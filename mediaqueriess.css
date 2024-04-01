@@ -104,7 +104,7 @@
         width: 100%;
         height: 90vh;
         background-size: cover;
-        background-image: url("images/Untitled\ \(5\).jpeg");
+        background-image: url("Untitled\ \(5\).jpeg");
     }
 
     .home{
@@ -581,7 +581,7 @@
         height: 20px;
     }
  .slc{
-    background-image: url("images/5275769_10800.jpg");
+    background-image: url("5275769_10800.jpg");
     background-repeat: no-repeat;
     background-position: center;
    
