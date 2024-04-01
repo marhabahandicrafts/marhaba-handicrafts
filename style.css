@@ -68,7 +68,7 @@ body::-webkit-scrollbar {
 #introduction {
     display: flex;
     flex-direction: column;
-    background-image: url("images/Untitled.jpeg");
+    background-image: url("Untitled.jpeg");
     background-repeat: no-repeat;
     background-size: 100%;
     width: 100%;
@@ -316,7 +316,7 @@ body::-webkit-scrollbar {
    
     gap: 4rem;
     padding: 10rem;
-   background-image: url("images/make_a_circle_l_861331d4-1015-4209-bb7e-c16296f756c6-removebg.png");
+   background-image: url("make_a_circle_l_861331d4-1015-4209-bb7e-c16296f756c6-removebg.png");
   
    background-repeat: no-repeat;
 
