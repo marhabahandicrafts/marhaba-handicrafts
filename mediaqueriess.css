@@ -672,7 +672,7 @@ customer-reviews{
     display: grid;
     grid-template-columns: auto;
     
-    background-color: white;
+    background-color: white !important;
 }
     .wfoc {
         width: 100%;
