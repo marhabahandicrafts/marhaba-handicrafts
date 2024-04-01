@@ -668,15 +668,81 @@
         color: rgba(54, 66, 79, 0.711);
 
     }
+customer-reviews{
+    display: grid;
+    grid-template-columns: auto;
+    
+    background-color: white;
+}
+    .wfoc {
+        width: 100%;
+      font-size: 17px;
+    }
+
+    .reviws {
+        width: 100%;
+        height: 90vh;
+        background-color: black;
+        color: white;
+        
+    }
+    .reviws p{
+        font-size: 20px;
+        color: white;
+        
+    }
+    .reviws h3{
+        color: white;
+    }
+    #banner-certifications {
+        display: flex;
+        height: 40vh;
+        width: 100%;
+        
+        padding: 1px;
+       
+        
+    }
+.dotss{
+    width: 90% !important; 
+}
+    .certifications-cont {
+        display: flex;
+        width: min-content;
+        width: 100%;
+        padding: 4px 4px;
+        gap: 1px;
+        margin-top: 1rem;
+        flex-direction: column;
+    }
+
+    .certifications {
+
+        display: flex;
+        gap: 10px;
+
+    }
+
+    .certifications p {
+        color: rgba(41, 41, 41, 0.59);
+      font-size: 20px;
+    }
+
+    .certifications-text {
+        font-size: 10px;
+        font-family: 'Roboto';
+        color: rgba(54, 66, 79, 0.711);
+
+    }
     .copyright{
         display: flex;
         gap: 3rem;
-        margin-top: 110rem;
+        margin-top: 100rem;
         width: 100%;
         background-color: black;
         flex-direction: column;
        justify-content: flex-start;
-        height: 100vh;
+        height: 85vh;
         padding: 1.5rem;
        
     }
@@ -730,7 +796,7 @@
         text-align: center;
         font-size: larger;
        color: white;
-        padding: .5rem;
+        padding: .25rem;
     }
 }
 
